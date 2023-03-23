@@ -1,0 +1,33 @@
+  .menu{
+    list-style: none;
+    width:100%;
+    padding-left:12%;
+    padding-right:12%;
+  }
+  .list-item{
+    float:left;
+    display:inline;
+    max-height: 600px;
+  }
+  .img {
+    width: 400px;
+  }
+  
+  .card {
+    margin: 10px;
+    width: 400px;
+    text-align: center;
+  }
+  
+  .smal {
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .caard-footer {
+    height: 120px;
+    width: 100px;
+  }
+  
+ 

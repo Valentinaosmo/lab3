@@ -1,0 +1,32 @@
+.menu{
+    list-style: none;
+    width:100%;
+  }
+  .list-item{
+    float:left;
+    display:inline;
+    max-height: 600px;
+  }
+.img{
+    width: 20px;
+}
+.container div .figuras{
+    width:20px;
+}
+.card{
+    float:left;
+    display:inline;
+    margin:0px;
+}
+.smal{
+    width:100%;
+    margin:10px;
+}
+.caard-footer{
+    height:70px;
+}
+
+.buttom{
+    width: 20px;
+    color: brown;
+}

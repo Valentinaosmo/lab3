@@ -1,0 +1,17 @@
+{
+  "name": "lab3_osmo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch",
+    "serve": "serve"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.0",
+    "typescript": "^4.9.5"
+  }
+}

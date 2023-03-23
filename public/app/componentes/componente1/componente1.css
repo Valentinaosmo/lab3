@@ -1,0 +1,29 @@
+.container {
+    border:1px solid;
+    margin-bottom: 100px;
+}
+.img{
+    width: 20px;
+}
+.container div .figuras{
+    width:20px;
+}
+.card{
+    float:left;
+    display:inline;
+    margin:0px;
+}
+.smal{
+    width:100%;
+    margin:10px;
+}
+.caard-footer{
+    height:70px;
+}
+.banner1{
+    margin:0px auto;
+    text-align:center;
+    margin-left:80px;
+
+
+}

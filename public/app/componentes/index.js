@@ -1,0 +1,13 @@
+export { default as Profile } from "./componente1/componente1.js";
+export { default as profile } from "./componente2/componente2.js";
+export { default as destacadas } from "./componente3/componente3.js";
+export { default as header } from "./header/header.js";
+export { default as header1 } from "./header1/header1.js";
+export { default as novedades } from "./novedades/novedades.js";
+export { default as novedades2 } from "./novedades2/novedades2.js";
+export { default as mydisponibles } from "./yadisponible/yadisponible.js";
+export { default as destacados } from "./destacados/destacados.js";
+export { default as lanzamientos } from "./lanzamientos/lanzamientos.js";
+export { default as vendidos } from "./vendidos/vendidos.js";
+export { default as novedades4 } from "./novedades4/novedades4";
+export { default as buttom } from "./buttom/buttom.js";
